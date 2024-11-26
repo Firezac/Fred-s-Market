@@ -14,4 +14,4 @@ Assets: Kenney (https://kenney.nl/)
 
 Music: funny-bgm Music by Sekuora from Pixabay
 
-SFX:: freesound.org (zott820,pablobd,kyles,andreas)
+SFX: https://freesound.org (zott820,pablobd,kyles,andreas)
