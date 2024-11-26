@@ -12,6 +12,6 @@ Original Arts and Game Test: Pedro Henrique Pomar Soares
 
 Assets: Kenney (https://kenney.nl/)
 
-Music: funny-bgm Music by Sekuora from Pixabay
+Music: funny-bgm by Sekuora from Pixabay
 
 SFX: https://freesound.org (zott820,pablobd,kyles,andreas)
