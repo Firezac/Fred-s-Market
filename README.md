@@ -1,4 +1,4 @@
-# Fred's Market
+# Fred's-Market
 
 This simple financial education game for children is designed to teach them good shopping habits and the importance of saving money.
 
